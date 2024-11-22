@@ -1,4 +1,3 @@
-# Movie-Recommendation-System-
 # Movie Recommender System 
 
 This project is a **content-based movie recommender system** developed using the **TMDB dataset**. The system recommends movies based on user preferences by analyzing key features such as **genres, keywords**, and **cast**.
